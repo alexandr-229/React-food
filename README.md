@@ -1,5 +1,6 @@
 To run the app:
-git clone git@github.com:alexandr-229/React-food.git
+
+    git clone git@github.com:alexandr-229/React-food.git
 
     npm install
 
